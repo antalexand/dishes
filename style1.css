@@ -1,0 +1,72 @@
+* {
+    margin: 7px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    position:absolute;
+    right: 5px;
+    top: 85px;
+    width: 1350px; 
+    height: 300%;
+    background-color: aliceblue;
+}
+
+h1 {
+    position: absolute;
+    left: 300px;
+    top: 35px;
+}
+
+.Li {
+    position: relative;
+    height: 100%;
+    width: 300px;
+    background-color: azure;
+    left: 1050px;
+}
+
+.direction {
+    position: absolute;
+    left: 25%;
+}
+
+.popular {
+    position: absolute;
+    top: 105px;
+    left: 15px;
+    width: 1000px;
+    height: 95%;
+    display: flex;
+}
+
+.dish {
+    position: absolute;
+    
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+}
+
+.name {
+    position: absolute;
+    right: 75%;
+}
+
+.info {
+    position: absolute;
+    top: 13%;
+    left: 5%;
+    right: 38%;
+    font-size: 25px;
+}
+
+img {
+    position: absolute;
+    right: 8px;
+    width: 335px;
+    top: 20px;
+    height: 90%;
+}
