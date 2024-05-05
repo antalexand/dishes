@@ -1,0 +1,47 @@
+* {
+    margin: 20px;
+}
+
+.info {
+    width: 60%;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+p {
+    font-size: 34px;    
+}
+
+img {
+    position: absolute;
+    right: 25px;
+    top: 105px;
+    width: 35%;
+}
+
+.img2 {
+    position: absolute;
+    right: 25px;
+    top: 1px;
+    width: 35%;
+}
+
+.otv {
+    position: absolute;
+    right: 25px;
+    top: 70%;
+    background-color: azure;
+    width: 37%;
+    height: 300%;
+}
+
+.otv2 {
+    position: absolute;
+    right: 25px;
+    top: 70%;
+    background-color: azure;
+    width: 37%;
+    height: 300%;
+}

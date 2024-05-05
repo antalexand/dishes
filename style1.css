@@ -9,7 +9,7 @@
     right: 5px;
     top: 85px;
     width: 1350px; 
-    height: 300%;
+    height: 650%;
     background-color: aliceblue;
 }
 
@@ -43,16 +43,97 @@ h1 {
 
 .dish {
     position: absolute;
-    
     background-color: white;
     width: 920px;
     height: 400px;
     left: 50px;
 }
 
+.dish2 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 450px;
+}
+
+.dish3 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 900px;
+}
+
+.dish4 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 1350px;
+}
+
+.dish5 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;  
+    left: 50px;
+    top: 1800px;
+}
+
+.dish6 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 2250px;
+}
+
+.dish7 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 2700px;
+}
+
+.dish8 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 3150px;
+}
+
+.dish9 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 3600px;
+}
+
+.dish10 {
+    position: absolute;
+    background-color: white;
+    width: 920px;
+    height: 400px;
+    left: 50px;
+    top: 4050px;
+}
+
 .name {
     position: absolute;
-    right: 75%;
+    left: 8%;
+    font-size: 30px;
 }
 
 .info {
@@ -69,4 +150,4 @@ img {
     width: 335px;
     top: 20px;
     height: 90%;
-}
+} 
