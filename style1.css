@@ -151,3 +151,23 @@ img {
     top: 20px;
     height: 90%;
 } 
+
+.col1 {
+    position: absolute;
+    top: 1800px;
+}
+
+.col2 {
+    position: absolute;
+    top: 2250px;
+}
+
+.col3 {
+    position: absolute;
+    top: 3600px;
+}
+
+.col4 {
+    position: absolute;
+    top: 4050px;
+}
